@@ -1,0 +1,2 @@
+Average B cells (melanoma males, miraclib, responders, baseline): 10401.28
+N samples: 184
