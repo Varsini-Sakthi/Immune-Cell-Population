@@ -1,4 +1,4 @@
-# Teiko Bio · Immune Cell Population Analysis
+# Teiko Bio - Immune Cell Population Analysis
 
 A clinical trial analysis pipeline and interactive dashboard built for Bob Loblaw at Loblaw Bio, examining how the drug candidate **miraclib** affects immune cell populations in melanoma and carcinoma patients.
 
@@ -121,9 +121,9 @@ Mann-Whitney U tests (two-sided) were run on all five cell populations comparing
 
 ### Part 4 - Subset Analysis
 - **656** melanoma PBMC baseline samples treated with miraclib
-- **prj1:** 384 samples · **prj3:** 272 samples
-- **331** responders · **325** non-responders
-- **344** males · **312** females
+- **prj1:** 384 samples - **prj3:** 272 samples
+- **331** responders - **325** non-responders
+- **344** males - **312** females
 - **Average B cells (melanoma males, responders, time=0): 10401.28**
 
 ---
